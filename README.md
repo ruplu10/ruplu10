@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- Front-end: React, HTML, CSS
+- Back-end: Node.js, Express
+- Database: MongoDB
+- .NET Framework
