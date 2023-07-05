@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 > Skills
 
-- 🔭 Back-end: ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-circle&logo=laravel)
+- 🔭 Back-end: ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-circle&logo=Node.js) ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-circle&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat-circle&logo=laravel) ![.NET](https://img.shields.io/badge/-.NET-blue?style=flat-circle&logo=.net)](https://dotnet.microsoft.com/)
 - 👯 Front-end: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript) ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3) ![React](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-blue?style=flat-circle&logo=tailwind-css)
 
 - :hammer_and_wrench: Tools: ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=VSCode) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJIDEA-black?style=flat-circle&logo=IntelliJIDEA) ![WebStorm](https://img.shields.io/badge/-WebStorm-white?style=flat-circle&logo=WebStorm)
